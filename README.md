@@ -38,4 +38,6 @@
 
 考试难度，背了不难，不背很难。
 
+> 文 / [Wei He](https://github.com/hewei2001)
+
 ## 学习建议
