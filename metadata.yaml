@@ -1,0 +1,111 @@
+ID: "GEIP1015"
+SimilarID: []
+Name: "思想道德与法治"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: [ "建筑", "工业设计（合作办学）", "数字媒体艺术（合作办学）", "计算机", "电信", "土木", "机械", "数学", "环境", "材料", "经济", "自动化", "能源", "工商管理", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1015"
+  CourseName: "思想道德与法治"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "50"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（自动化与电气工程）", "工科试验班（机器人与智能装备）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1015"
+  CourseName: "思想道德与法治"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "50"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "电气工程及其自动化", "工科试验班（生态环境类）", "工科试验班（先进材料类）", "化学", "建筑类（智慧人居类）", "工科试验班（智能土木类）", "经济管理试验班", "工科试验班（智慧能源与低空动力）", "工科试验班（机器人与智能装备）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1015"
+  CourseName: "思想道德与法治"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "50"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（计算机与电子通信）", "经济管理实验班", "通信工程（中外合作办学）", "工科试验班（卓越优才计划）", "建筑类" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1015"
+  CourseName: "思想道德与法治"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "50"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
