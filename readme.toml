@@ -1,0 +1,16 @@
+course_name = "思想道德与法治"
+repo_type = "normal"
+course_code = "GEIP1015"
+
+[[exam]]
+content = """2021 级情况：从曾经的《思想道德修养与法律基础》改名为《思想道德与法治》，失去了考前划重点环节。"""
+author = { name = "", link = "", date = "" }
+
+[[exam]]
+content = """
+2018 级情况：
+题型有单选题、多选题、辨析题、材料分析题、小作文题。
+我们老师最后一节课会划重点，根据重点背几个小时就 ok 了（可以拿很高分），勇者可以裸考。
+考试难度，背了不难，不背很难。
+"""
+author = { name = "Wei He", link = "https://github.com/hewei2001", date = "" }
