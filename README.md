@@ -1,4 +1,6 @@
 # GEIP1015 - 思想道德与法治
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![平时50%](https://img.shields.io/badge/平时-50%25-wheat)
@@ -7,6 +9,9 @@
 思想道德与法治课程资料。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 2021 级情况：从曾经的《思想道德修养与法律基础》改名为《思想道德与法治》，失去了考前划重点环节。
 
