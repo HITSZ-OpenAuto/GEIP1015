@@ -1,7 +1,6 @@
 course_name = "思想道德与法治"
-repo_type = "normal"
 course_code = "GEIP1015"
-
+repo_type = "normal"
 description = "思想道德与法治课程资料。"
 
 [[sections]]
