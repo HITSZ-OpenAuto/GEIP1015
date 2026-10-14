@@ -1,10 +1,5 @@
 # GEIP1015 - 思想道德与法治
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时50%](https://img.shields.io/badge/平时-50%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 思想道德与法治课程资料。
 
